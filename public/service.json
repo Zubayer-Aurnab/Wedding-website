@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "img": "https://cdn.shopify.com/s/files/1/0115/1578/9369/files/eucalyptus_480x480.jpg?v=1623366450",
+        "title": "Full Wedding Planning",
+        "description": "Our comprehensive wedding planning service includes everything you need to make your special day unforgettable. We take care of every detail, from venue selection to catering and decor. Our experienced team will work closely with you to ensure every aspect of your wedding is perfect.",
+        "price": 5000,
+        "facilities": [
+            "Venue Selection",
+            "Catering",
+            "Decor",
+            "Entertainment"
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://media.istockphoto.com/id/1340256496/photo/shot-of-a-young-woman-decorating-a-table-with-place-card-holders-in-preparation-for-a-wedding.jpg?s=612x612&w=0&k=20&c=gBQHa3_HywGsZv4MYRfvMpWAsgLLUkQvyMbG-lHBOSo=",
+        "title": "Day-Of Coordination",
+        "description": "On your wedding day, we'll ensure that everything runs smoothly. Our day-of coordination service lets you relax and enjoy the celebration while we handle the logistics. We'll create a detailed timeline, coordinate with vendors, and oversee every aspect of your event to make it stress-free for you.",
+        "price": 1500,
+        "facilities": [
+            "Event Coordination",
+            "Timeline Management",
+            "Vendor Coordination"
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://static.wixstatic.com/media/89881a_bde068d155154caeba5a722c332fa389~mv2.jpg/v1/fill/w_1903,h_754,al_b,q_85,usm_0.66_1.00_0.01,enc_auto/89881a_bde068d155154caeba5a722c332fa389~mv2.jpg",
+        "title": "Venue Selection",
+        "description": "Find the perfect venue for your wedding. We offer a selection of beautiful locations that suit your style and guest list. Our team will assist you in selecting the ideal venue, arranging site visits, and negotiating favorable terms to make your wedding venue selection process hassle-free.",
+        "price": 1000,
+        "facilities": [
+            "Venue Options",
+            "Site Visits",
+            "Negotiation"
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://busseltoncateringservice.com/wp-content/uploads/2021/12/wedding-catering_91.webp",
+        "title": "Catering Services",
+        "description": "Impress your guests with exquisite catering. We offer a variety of culinary options to suit your tastes and dietary preferences. Our menu planning, food tasting sessions, and attentive service staff ensure that your wedding catering exceeds your expectations.",
+        "price": 2500,
+        "facilities": [
+            "Menu Planning",
+            "Food Tasting",
+            "Service Staff"
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://shaadiwish.com/blog/wp-content/uploads/2022/03/26.jpg",
+        "title": "Floral Decorations",
+        "description": "Elevate your wedding decor with stunning floral arrangements. Our floral experts will design and create beautiful bouquets and centerpieces that enhance the beauty of your wedding venue. Our services include floral design, flower selection, and delivery & setup.",
+        "price": 800,
+        "facilities": [
+            "Floral Design",
+            "Flower Selection",
+            "Delivery & Setup"
+        ]
+    },
+    {
+        "id": 6,
+        "img": "https://www.summitimagery.co.uk/wp-content/uploads/2019/09/Why-you-should-hire-both-a-wedding-photographer-and-videographer-for-your-special-day-1.jpg",
+        "title": "Photography & Videography",
+        "description": "Capture every special moment with our professional photography and videography services. Relive your wedding day for years to come with our high-quality photography, videography, editing, and album services.",
+        "price": 3500,
+        "facilities": [
+            "Photography",
+            "Videography",
+            "Editing & Albums"
+        ]
+    },
+    {
+        "id": 7,
+        "img": "https://weddingideasmag.telegraph.co.uk/wp-content/uploads/2017/10/110-wedding-entertainment-ideas.jpg",
+        "title": "Entertainment",
+        "description": "Keep your guests entertained with live music, DJs, and other entertainment options. Create a lively and memorable atmosphere at your wedding with our live music, DJ services, and entertainment planning.",
+        "price": 2000,
+        "facilities": [
+            "Live Music",
+            "DJ Services",
+            "Entertainment Planning"
+        ]
+    },
+    {
+        "id": 8,
+        "img": "https://www.marthastewart.com/thmb/vc7U5pMJFyfJ3PMrDlKZxc7NSsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/jeannette-taylor-wedding-portugal-cake-103105713-2000-01181015437b431cac657279acded683.jpg",
+        "title": "Wedding Cake",
+        "description": "Add a sweet touch to your wedding with a custom-designed wedding cake. Choose from a variety of flavors and designs to match your wedding theme. Our services include cake design, flavor options, and delivery & setup.",
+        "price": 600,
+        "facilities": [
+            "Cake Design",
+            "Flavor Options",
+            "Delivery & Setup"
+        ]
+    },
+    {
+        "id": 9,
+        "img": "https://images-cdn.easyweddings.com.au/s3/prod-ew-image-global-v2/Live/ImageUploader/-supplierprofilelive-photo-31f3c2b6-b71c-4bce-96f3-3d8377ad6deb.jpg?quality=80&format=jpg&mode=crop&autorotate=true&crop=0,0,0,0&width=2048",
+        "title": "Transportation Services",
+        "description": "Ensure smooth transportation for you and your guests on your special day. We provide a range of transportation options, including limo service, shuttle buses, and transportation coordination to make your wedding transportation hassle-free.",
+        "price": 1200,
+        "facilities": [
+            "Limo Service",
+            "Shuttle Buses",
+            "Transportation Coordination"
+        ]
+    },
+    {
+        "id": 10,
+        "img": "https://static.wixstatic.com/media/ee6212_0754da107ce4458ea02ef5b073358f96~mv2.jpg/v1/fill/w_640,h_402,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ee6212_0754da107ce4458ea02ef5b073358f96~mv2.jpg",
+        "title": "Bridal Hair and Makeup",
+        "description": "Look your best on your wedding day with our professional bridal hair and makeup services. We'll enhance your natural beauty with expert hair styling, makeup artistry, and trial sessions to create the perfect bridal look.",
+        "price": 800,
+        "facilities": [
+            "Hair Styling",
+            "Makeup Artistry",
+            "Trial Sessions"
+        ]
+    }
+]
